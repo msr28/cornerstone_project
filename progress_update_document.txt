@@ -1,4 +1,5 @@
-Week 1
--	Logged into GitHub account and created Repo
--	Created Progress Document and README file
--	Pushed changes
+Week 1 of 16 
+-	Created Project Progress Document 
+-	Logged into GitHub account & created new repo named ‘cornerstone_project’ 
+-	Updated README file and Progress Document
+-	Pushed changes to Github
